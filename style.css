@@ -5,12 +5,28 @@ h1{
 body{
     font-family: 'Anton', sans-serif;
   margin: 0;
+  box-sizing: border-box;
 }
 .ww{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+}
+.bla{
+    float: right;
+    margin-right: 200px;
+    margin-top: 25px;
+}
+.bla a{
+    text-decoration: none;
+    color: dimgrey;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+.bla a:hover{
+    background-image: linear-gradient(45deg, rgb(97, 64, 216),white);
+    border-radius: 15px;
 }
 .ww img{
     width: 100%;
@@ -98,7 +114,7 @@ footer h1{
 footer p{
     text-align: center;
     color:gray;
-    font-size: 5px;
+    font-size: 15px;
 }
 .inquiry img{
     width: 70%;
@@ -121,4 +137,14 @@ footer p{
     left: 1000px;
     padding: 20px 35px;
     margin-top: -500px;
+}
+h4{
+    text-align: left;
+    font-size: 30px;
+    color: orange;
+}
+h4 p{
+    text-align: left;
+    font-size: 30px;
+    color: grey
 }
