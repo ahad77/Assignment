@@ -1,0 +1,124 @@
+h1{
+    font-size: 50px;
+} 
+.wel{color: #FF8367;}
+body{
+    font-family: 'Anton', sans-serif;
+  margin: 0;
+}
+.ww{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.ww img{
+    width: 100%;
+}
+.lwp{
+    color: #363958;
+    text-align: center;
+}
+.lq{
+    color: #FF8367;
+    text-align: center;
+}
+.lpp{
+   height: 90%;
+   width: 25%;
+    border-radius: 15px;
+    background-color:white;
+}
+.exp-area{
+    background-color: rgba(199, 199, 199, 0.295);
+}
+.hhh{
+    color:  #363958;
+}
+section{
+    height: 480px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+}
+.Rsm-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, cyan,blue);
+
+}
+.ctt-bt{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, cyan,blue);
+
+}
+.lpp img{
+    width: 90%;
+}
+footer{
+
+    text-align: center;
+}
+footer img{
+    height: 5%;
+    width: 2%;
+}
+footer h1{
+    font-size: 20px;
+}
+
+
+
+.ctt-bt{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, white,rgb(207, 116, 30));
+    float: right;
+}
+footer p{
+    text-align: center;
+    color:gray;
+    font-size: 5px;
+}
+.inquiry img{
+    width: 70%;
+    margin: 10% 15%;
+    height: 250px;
+}
+.inquiry h2{
+    position: absolute;
+    top: 2650px;
+    padding-top: 0%;
+    left: 350px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(252, 252, 252));
+    margin-top: -500px;
+}
+.inquiry a{
+    position: absolute;
+    top: 2700px;
+    left: 1000px;
+    padding: 20px 35px;
+    margin-top: -500px;
+}
